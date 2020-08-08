@@ -1,3 +1,36 @@
 <resources>
     <string name="app_name">NAAT Android Exam</string>
+    <string name="hint_user">Usuario/Correo</string>
+    <string name="hint_pass">Password</string>
+    <string name="iniciar_sesion">Iniciar Sesión</string>
+    <string name="tab_recargas">Recargas</string>
+    <string name="recargas_caps">RECARGAS</string>
+    <string name="tab_recaudacion">Recaudación</string>
+    <string name="tab_administracion">Administración</string>
+    <string name="settings">Settings</string>
+    <string name="item_hint">Nombre Item</string>
+    <string name="administracion_fragment">Fragmento de Administración</string>
+    <string name="recaudacion_fragment">Fragmento de Recaudación</string>
+    <string name="hint_elemento1">Elemento1</string>
+    <string name="hint_elemento2">Elemento2</string>
+    <string name="hint_elemento3">Elemento3</string>
+    <string name="hint_ver_mas">Ver Más</string>
+    <string name="hint_claro">Claro</string>
+    <string name="hint_tuenti">Tuenti</string>
+    <string name="hint_entel">Entel</string>
+    <string name="num_cel">Número Celular</string>
+    <string name="monto_recarga">Monto a Recargar</string>
+    <string name="hint_tipo_recarga">Tipo Recarga</string>
+    <string name="continuar_recarga">Continuar</string>
+    <string name="hint_comision_recarga">Venta de 3.0 a 100.0 con incremento de 1.0</string>
+    <string name="hint_fecha">Fecha</string>
+    <string name="hint_hora">Hora</string>
+    <string name="hint_id_user">ID User</string>
+    <string name="hint_aviso_recarga">Se realizará una recarga</string>
+    <string name="hint_numero_telefonico">Número Telefónico</string>
+    <string name="hint_aviso_pago_oportuno">Realice su pago oportunamente en la sucursal de preferencia.</string>
+    <string name="cancelar">cancelar</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="hint_recarga_exitosa">La recarga se ha realizado con éxito.</string>
+    <string name="hint_procesando_recarga">Procesando Recarga...</string>
 </resources>
