@@ -1,0 +1,12 @@
+ext {
+
+    APPLICATIONID = 'mx.com.naatandroidexam'
+    MINSDKVERSION = 14
+    TARGETSDKVERSION = 28
+    VERSIONCODE = 1
+    VERSIONNAME = '1.0'
+
+    URL_LOGIN = "https://uat.firmaautografa.com/"
+    AUTHENTICATION_HEADER = "Basic Wm1Ga0xXTXlZeTF3YjNKMFlXdz06TWpoa04yUTNNbUppWVRWbVpHTTBObVl4Wmpka1lXSmpZbVEyTmpBMVpEVXpaVFZoT1dNMVpHVTROakF4TldVeE9EWmtaV0ZpTnpNd1lUUm1ZelV5WWc9PQ=="
+    GRANT_TYPE = "password"
+}
